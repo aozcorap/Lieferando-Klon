@@ -30,5 +30,13 @@ Nutzen für das Restaurant: Lieferando-Provision entfällt (ca. 14 % pro Bestell
 ## Risiko
 - Lieferando bringt auch Kunden/Reichweite. Ohne eigenen Kundenstrom sinken die Bestellungen. Marketing-Konzept für Restaurants nötig.
 
+## Provisionen der Konkurrenz (Größenordnung, aus Web-Quellen, nicht offiziell, teils alt)
+- Uber Eats: ca. 15 % wenn das Restaurant selbst liefert (plus Aktivierungsgebühr), ca. 30 % bei Kurierzustellung (Stand 2021).
+- Wolt: ca. 25 bis 30 % bei Auslieferung durch Wolt; Satz ohne Auslieferung nicht gefunden.
+- Lieferando: ca. 13 bis 14 % ohne, ca. 30 % mit Auslieferung durch Lieferando.
+- Folge: Unsere 14 % Ersparnis gilt für Restaurants mit eigenen Fahrern. Liefert Lieferando aus, ist die Ersparnis höher, aber wir müssten die Logistik ersetzen. Restaurants mit eigenen Fahrern sind die einfacheren ersten Kunden.
+- Echte Zahlen immer aus der Abrechnung des jeweiligen Restaurants holen.
+- Quellen: sumup.com/de-de/wachsen/marketing/uber-eats-lieferando, uber.com/de/newsroom/uber-eats-restaurantketten, meininger.de (Wolt), tageskarte.io (30 % Provision).
+
 ## Offen
 - Technischer Stack, Zahlungsabwicklung, Lieferlogik, Hosting, eigene Marge/Preismodell: noch nicht entschieden.
